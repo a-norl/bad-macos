@@ -2,9 +2,10 @@
   "name": "bad-macos",
   "version": "1.0.0",
   "description": "imagine a computer but worse",
-  "main": "publish/mac_code.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"nothing to build\" "
   },
   "repository": {
     "type": "git",
